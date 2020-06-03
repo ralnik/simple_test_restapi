@@ -1,0 +1,5 @@
+
+…
+java:S1488%"jImmediately return this expression instead of assigning it to the temporary variable "transactionManager".(†Þ–šÿÿÿÿÿ
+j
+java:S3305"TInject this field value directly into "getDataSource", the only method that uses it.(«ª“ø

@@ -1,0 +1,13 @@
+
+£
+java:S1186,"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(àäƒÌÿÿÿÿÿ8õ¯Ò¢¥.
+r
+java:S1128"PRemove this unused import 'ru.example.sbertest.db.dao.question.QuestionDAOImpl'.(š¬òíùÿÿÿÿ8ü¾ö¡¦.
+H
+java:S1168"+Return an empty collection instead of null.(¥¹ï8õ¯Ò¢¥.
+
+java:S11861"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Õ´È8õ¯Ò¢¥.
+O
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8£¦¿¥.
+
+java:S1186'"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(í¢Ô¹8õ¯Ò¢¥.

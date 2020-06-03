@@ -1,0 +1,10 @@
+
+G
+java:S1612.",Replace this lambda with a method reference.(Ô¤©Àüÿÿÿÿ
+n
+java:S1128"LRemove this unused import 'ru.example.sbertest.db.dao.answer.AnswerDAOImpl'.(ÔŽÖÆúÿÿÿÿ8£íí¡¦.
+u
+java:S1128"XRemove this unused import 'ru.example.sbertest.db.dao.typequestion.TypeQuestionDAOImpl'.(¦ò»ã8ñØí¡¦.
+r
+java:S1128
+"PRemove this unused import 'ru.example.sbertest.db.dao.question.QuestionDAOImpl'.(š¬òíùÿÿÿÿ8Þ¼í¡¦.
